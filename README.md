@@ -23,10 +23,6 @@ The application shows the date when the post was posted and also when the commen
 - User can logout out of the application
 
 
-## Setup Installation
-
-
-
 ## Technologies used
 
 - Python 3.8.2
@@ -41,4 +37,6 @@ One known bug is on deleting a comment. This feature deletes together with the p
 
 licensed under MIT license.
 
-Contact Details
+## Contact Details
+Tel: +254111728374
+Email: fredpapah20@gmail.com
